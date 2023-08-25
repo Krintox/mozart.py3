@@ -1,0 +1,29 @@
+*{
+  color: white !important;
+  background: black !important;
+  /* text-align: left !important; */
+}
+
+button{
+  background: white !important;
+  color: black !important;
+}
+
+.formdes{
+  padding: 3rem;
+}
+
+.formdes img{
+  width: 100% !important;
+}
+
+input, textarea{
+  border: 2px solid white !important;
+
+}
+
+input[type='file']{
+  border: 2px solid white !important;
+  padding: 1rem;
+  width: 100% !important;
+}
